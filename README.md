@@ -1,5 +1,22 @@
-# Claude Household Budget Management Workspace
+## Home Budget Helper Plugin
 
+This Claude Code plugin is part of my public marketplace.
+
+**To install the marketplace:**
+
+```bash
+/plugin marketplace add https://github.com/danielrosehill/Claude-Code-Plugins
+```
+
+**Plugin Installation:**
+
+To install this plugin:
+
+```bash
+/plugin install home-budget-helper@danielrosehill
+```
+
+---
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-8A2BE2?logo=anthropic)](https://github.com/anthropics/claude-code)
 [![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
 [![Master Index](https://img.shields.io/badge/GitHub-Master%20Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
