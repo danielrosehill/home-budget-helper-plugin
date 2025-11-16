@@ -1,0 +1,36 @@
+{
+  "name": "home-budget-helper",
+  "description": "A workspace template for household budget management using Claude Code CLI with predefined agents, slash commands, and directory structures for transaction processing, budget creation, expense analysis, goal tracking, and report generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/home-budget-helper-plugin"
+  },
+  "commands": [
+    "./commands/analyze-spending.md",
+    "./commands/create-monthly-budget.md",
+    "./commands/monthly-report.md",
+    "./commands/process-transactions.md",
+    "./commands/review-goals.md",
+    "./commands/set-financial-goal.md",
+    "./commands/setup-workspace.md"
+  ],
+  "agents": [
+    "./agents/budget-architect.md",
+    "./agents/expense-analyst.md",
+    "./agents/financial-advisor.md",
+    "./agents/goal-tracker.md",
+    "./agents/report-generator.md",
+    "./agents/transaction-processor.md"
+  ],
+  "keywords": [
+    "financial",
+    "budget-helper"
+  ]
+}
